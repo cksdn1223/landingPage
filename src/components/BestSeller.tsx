@@ -8,7 +8,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "790,000원",
     salePrice: "711,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965535/pexels-photo-3965535.jpeg?auto=compress&cs=tinysrgb&w=800", // 큰 원목 책장
     badge: "쿠폰적용가",
   },
   {
@@ -18,7 +18,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "780,000원",
     salePrice: "630,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965521/pexels-photo-3965521.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965521/pexels-photo-3965521.jpeg?auto=compress&cs=tinysrgb&w=800", // 원목 작업용 책상
     badge: "쿠폰적용가",
   },
   {
@@ -28,7 +28,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "990,000원",
     salePrice: "891,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965534/pexels-photo-3965534.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965534/pexels-photo-3965534.jpeg?auto=compress&cs=tinysrgb&w=800", // 긴 낮은 원목 수납장
     badge: "쿠폰적용가",
   },
   {
@@ -38,7 +38,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "9,550,000원",
     salePrice: "3,195,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965535/pexels-photo-3965535.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=800", // 책장+소품 세트 느낌
     badge: "쿠폰적용가",
   },
   {
@@ -48,7 +48,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "980,000원",
     salePrice: "882,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965550/pexels-photo-3965550.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965550/pexels-photo-3965550.jpeg?auto=compress&cs=tinysrgb&w=800", // 거실 TV장/수납장
     badge: "기획특가",
   },
   {
@@ -58,7 +58,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "1,450,000원",
     salePrice: "1,190,000원",
     imageUrl:
-      "https://images.pexels.com/photos/37347/office-freelancer-computer-business-37347.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965522/pexels-photo-3965522.jpeg?auto=compress&cs=tinysrgb&w=800", // 원목 식탁 세트
     badge: "세트할인",
   },
   {
@@ -68,7 +68,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "390,000원",
     salePrice: "351,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965515/pexels-photo-3965515.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965515/pexels-photo-3965515.jpeg?auto=compress&cs=tinysrgb&w=800", // 낮은 책장+아이방 느낌
     badge: "키즈추천",
   },
   {
@@ -78,7 +78,7 @@ const PRODUCTS: Product[] = [
     originalPrice: "520,000원",
     salePrice: "468,000원",
     imageUrl:
-      "https://images.pexels.com/photos/3965526/pexels-photo-3965526.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3965526/pexels-photo-3965526.jpeg?auto=compress&cs=tinysrgb&w=800", // 심플한 원목 책상
     badge: "MD추천",
   },
 ];

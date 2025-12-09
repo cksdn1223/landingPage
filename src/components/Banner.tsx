@@ -10,7 +10,7 @@ const SLIDES: Slide[] = [
       "따뜻한 원목으로 겨울 집 꾸미기. 회원 전용 혜택이 자동 적용됩니다.",
     period: "2025. 12. 01 ~ 12. 31",
     imageUrl:
-      "https://images.pexels.com/photos/3965520/pexels-photo-3965520.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965520/pexels-photo-3965520.jpeg?auto=compress&cs=tinysrgb&w=1600", // 거실 테이블·장식장
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const SLIDES: Slide[] = [
       "작은 거실에도 어울리는 컴팩트 구성. 설치 기사 방문 포함 가격입니다.",
     period: "2025. 11. 10 ~ 12. 20",
     imageUrl:
-      "https://images.pexels.com/photos/3965550/pexels-photo-3965550.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965535/pexels-photo-3965535.jpeg?auto=compress&cs=tinysrgb&w=1600", // 큰 원목 책장 세트
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const SLIDES: Slide[] = [
       "집중이 잘 되는 서재 공간을 위한 원목 책상 컬렉션. 케이블홀 옵션까지 무료.",
     period: "2025. 12. 05 ~ 12. 19",
     imageUrl:
-      "https://images.pexels.com/photos/37347/office-freelancer-computer-business-37347.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965526/pexels-photo-3965526.jpeg?auto=compress&cs=tinysrgb&w=1600", // 심플한 원목 책상
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const SLIDES: Slide[] = [
       "둥근 모서리와 따뜻한 색감의 식탁 라인업. 가족이 모이는 공간을 완성하세요.",
     period: "2025. 12. 08 ~ 12. 25",
     imageUrl:
-      "https://images.pexels.com/photos/3965522/pexels-photo-3965522.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965522/pexels-photo-3965522.jpeg?auto=compress&cs=tinysrgb&w=1600", // 원목 식탁 세트
   },
   {
     id: 5,
@@ -50,7 +50,7 @@ const SLIDES: Slide[] = [
       "리빙룸 분위기를 깔끔하게 정리해 주는 수납장 컬렉션을 한 번에 모았습니다.",
     period: "2026. 01. 02 ~ 01. 20",
     imageUrl:
-      "https://images.pexels.com/photos/3965555/pexels-photo-3965555.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965550/pexels-photo-3965550.jpeg?auto=compress&cs=tinysrgb&w=1600", // 로우 TV장
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ const SLIDES: Slide[] = [
       "원목의 따뜻함은 살리고, 작업 효율은 높이는 홈오피스 레이아웃 제안전.",
     period: "2026. 01. 10 ~ 02. 05",
     imageUrl:
-      "https://images.pexels.com/photos/3965526/pexels-photo-3965526.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965534/pexels-photo-3965534.jpeg?auto=compress&cs=tinysrgb&w=1600", // 낮은 원목 수납장
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ const SLIDES: Slide[] = [
       "아이 방을 위한 저상 침대, 장난감 수납장, 책장까지 한 번에 만나보세요.",
     period: "2026. 02. 01 ~ 02. 28",
     imageUrl:
-      "https://images.pexels.com/photos/3965510/pexels-photo-3965510.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1600", // 낮은 책장+소품
   },
   {
     id: 8,
@@ -80,10 +80,9 @@ const SLIDES: Slide[] = [
       "오래 기다려 주신 베스트셀러 제품들을 한정 수량으로 다시 만나보세요.",
     period: "2026. 03. 01 ~ 03. 15",
     imageUrl:
-      "https://images.pexels.com/photos/3965529/pexels-photo-3965529.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/3965555/pexels-photo-3965555.jpeg?auto=compress&cs=tinysrgb&w=1600", // 거실 원목 가구들
   },
 ];
-
 
 const AUTO_INTERVAL = 5000;
 
